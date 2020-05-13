@@ -15,7 +15,7 @@
       <slot name="collection">Collection</slot>
     </div>
     <div class="details">
-      <slot name="details">Street Style New Fashionistas</slot>
+      <slot name="details">We are creating a deploy preview</slot>
     </div>
   </div>
 </template>
