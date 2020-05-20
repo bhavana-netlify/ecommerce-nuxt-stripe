@@ -15,7 +15,7 @@
       <slot name="collection">Collection on a branch</slot>
     </div>
     <div class="details">
-      <slot name="details">Street Style New Fashion</slot>
+      <slot name="details">Street Style New Fashion this is a PR</slot>
     </div>
   </div>
 </template>
