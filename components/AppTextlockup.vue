@@ -12,7 +12,7 @@
       <slot name="sale">Women Shoes</slot>
     </div>
     <div class="collection">
-      <slot name="collection">Collection</slot>
+      <slot name="collection">Collection to Preview</slot>
     </div>
     <div class="details">
       <slot name="details">Street Style New Fashionistas</slot>
