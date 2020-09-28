@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Skyline Ink</h1>
+    <h1>Arc'teryx</h1>
     <nav>
       <ul>
         <li>

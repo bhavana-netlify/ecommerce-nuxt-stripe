@@ -1,4 +1,48 @@
 [
+    {
+    "id": "Acrux-AR-Mountaineering-Boot-Black-Black",
+    "color": "Black",
+    "description": "A pinnacle of design for mountaineering, ice and mixed climbing, the Acrux AR is the lightest, most durable, and lowest profile insulated double boot available. AR: All-Round. Includes 1 pair of GORE-TEX HIGH-LINERS.",
+    "gender": "Male",
+    "name": "Acrux-AR-Mountaineering-Boot-Black-Black",
+    "review": "Streamlined, minimalist and lightweight technical down insulation. High warmth to weight ratio.",
+    "starrating": 4,
+    "price": 750.00,
+    "img": "Acrux-AR-Mountaineering-Boot-Black-Black.png"
+  },
+  {
+    "id": "Rho-AR-Bottom-Black",
+    "color": "Black",
+    "description": "Versatile, insulated tight that can be worn as an insulated base layer, or as a stand-alone outer layer during cool-weather workouts",
+    "gender": "Male",
+    "name": "RHO AR BOTTOM MEN'S",
+    "review": "Streamlined, minimalist and lightweight technical down insulation. High warmth to weight ratio.",
+    "starrating": 4,
+    "price": 125.00,
+    "img": "Rho-AR-Bottom-Black.png"
+  },
+  {
+    "id": "Thorium-AR-Hoody-Dracaena",
+    "color": "Dracaena",
+    "description": "Generalist down hoody made from durable face fabrics and 750 fill grey goose down. Functions as a warm midlayer or standalone piece for cool, dry conditions. Down Series: Down insulated garments | AR: All Round.",
+    "gender": "Male",
+    "name": "CERIUM LT HOODY MEN'S",
+    "review": "Streamlined, minimalist and lightweight technical down insulation. High warmth to weight ratio.",
+    "starrating": 4,
+    "price": 325.00,
+    "img": "Thorium-AR-Hoody-Dracaena.png"
+  },
+    {
+    "id": "Cerium-LT-Hoody-Galactica",
+    "color": "Galactica",
+    "description": "Lightweight, versatile down hoody provides exceptional warmth for its weight. Down Series: Down insulated garments.",
+    "gender": "Male",
+    "name": "CERIUM LT HOODY MEN'S",
+    "review": "Streamlined, minimalist and lightweight technical down insulation. High warmth to weight ratio.",
+    "starrating": 4,
+    "price": 379.00,
+    "img": "Cerium-LT-Hoody-Galactica.png"
+  },
   {
     "id": "9d436e98-1dc9-4f21-9587-76d4c0255e33",
     "color": "Goldenrod",

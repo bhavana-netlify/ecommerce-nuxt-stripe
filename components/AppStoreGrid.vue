@@ -56,8 +56,8 @@ export default {
   data() {
     return {
       min: 0,
-      max: 200,
-      pricerange: 200
+      max: 1000,
+      pricerange: 560
     };
   },
   computed: {
