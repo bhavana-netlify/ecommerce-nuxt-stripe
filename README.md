@@ -1,4 +1,4 @@
-# 🛍 Ecommerce Store with Netlify Functions and Stripe
+# 🛍 Ecommerce Store with Netlify Functions and Stripe hosted on Netlify
 
 > A serverless function to process stripe payments with Nuxt, Netlify, and Lambda
 
