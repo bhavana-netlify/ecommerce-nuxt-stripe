@@ -10,7 +10,7 @@ package = "@netlify/plugin-sitemap"
   
   
   [[redirects]]
-  from = "/"
+  from = "/women"
   to = "https://www.google.com"
   status = 200
 
