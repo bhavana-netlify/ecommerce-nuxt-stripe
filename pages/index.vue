@@ -7,7 +7,7 @@
         <img src="/bag.jpg" alt="bag" />
       </template>
       <template v-slot:new>70%</template>
-      <template v-slot:sale>Storewide Sale</template>
+      <template v-slot:sale>Storewide Sale for Glovo</template>
       <template v-slot:collection>Summer</template>
       <template v-slot:details>All accessories</template>
     </app-textlockup>
