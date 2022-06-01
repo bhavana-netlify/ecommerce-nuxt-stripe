@@ -1,4 +1,4 @@
-# 🛍 Ecommerce Store with Netlify Functions and Stripe - Zscaler
+# 🛍 Ecommerce Store with Netlify Functions and Stripe - Zscalerrr
 
 > A serverless function to process stripe payments with Nuxt, Netlify, and Lambda
 
