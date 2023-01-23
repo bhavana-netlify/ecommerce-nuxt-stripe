@@ -13,7 +13,7 @@
           <nuxt-link to="/women">Women's Stuff for SALE</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/men">Mens Stuff not for SALE</nuxt-link>
+          <nuxt-link to="/men">Mens Stuff not for SALE 2022</nuxt-link>
         </li>
         <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
