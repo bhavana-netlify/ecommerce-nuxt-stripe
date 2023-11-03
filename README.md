@@ -1,6 +1,6 @@
 # 🛍 Ecommerce Store with Netlify Functions and Stripe
 
-> A serverless function to process stripe payments with Nuxt, Netlify, and Lambda
+> A serverless function to process stripe payments with Nuxt, Netlify, and Lambda.
 
 Demo site is here: [E-Commerce Store](https://ecommerce-netlify.netlify.com/)
 
