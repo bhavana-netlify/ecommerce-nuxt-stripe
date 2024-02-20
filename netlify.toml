@@ -6,4 +6,11 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   buildDir = "dist"
+  
+  
+  
+  [[redirects]]
+  from = "/women/*"
+  to = "https://www.google.com"
+  status = 301
 
